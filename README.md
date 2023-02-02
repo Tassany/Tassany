@@ -7,7 +7,8 @@
 - 🌱 I’m currently an undergraduate in Computer engineering at UFPB.
 - ❤️ My interests are backend development, firmware and IOT. 
 
-<div style="display: inline_block"><br>
+----
+<div  align="center" style="display: inline_block"><br>
   <img align="center" alt="tassany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="tassany-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="tassany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
