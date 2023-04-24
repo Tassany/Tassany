@@ -2,7 +2,6 @@
 
 ---
 - 📧 : tassanyonofre@gmail.com
-- 📱 : (83)998955396
 - 🔭 I’m currently looking for a job/internship
 - 🌱 I’m currently an undergraduate in Computer engineering at UFPB.
 - ❤️ My interests are backend development, firmware and IOT. 
