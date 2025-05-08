@@ -2,8 +2,8 @@
 
 ---
 - 📧 : tassanyonofre@gmail.com
-- 🔭 I’m currently looking for a job/internship
-- 🌱 I’m currently an undergraduate in Computer engineering at UFPB.
+- 🔭 I’m currently working as a Phd student at ENAC in France.
+- 🌱 I’m graduated in Computer engineering at UFPB.
 - ❤️ My interests are backend development, firmware and IOT. 
 
 ----
